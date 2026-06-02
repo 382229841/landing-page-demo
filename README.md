@@ -20,7 +20,7 @@ A modern SaaS landing page built with pure HTML/CSS.
 
 ## 🚀 Live Demo / 在线演示
 
-> [Demo URL will be here after deployment]
+> [217.142.225.182:8889/landing-page/](http://217.142.225.182:8889/landing-page/)
 
 ## 📂 Project Structure / 项目结构
 
